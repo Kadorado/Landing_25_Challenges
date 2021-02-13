@@ -76,22 +76,22 @@ const challenges = [
   {
     img: "./img/challenge12.png",
     name: "Sound Board",
-    url: "https://vercel.com/kadorado/reto12",
+    url: "https://reto12.vercel.app/",
   },
   {
     img: "./img/challenge13.png",
     name: "Live User Filter",
-    url: "https://vercel.com/kadorado/reto13",
+    url: "https://reto13.vercel.app/",
   },
   {
     img: "./img/challenge14.png",
     name: "Button Ripple Effect",
-    url: "https://vercel.com/kadorado/reto14",
+    url: "https://reto14-839jik3r9.vercel.app/",
   },
   {
     img: "./img/challenge15.png",
     name: "Background Slider",
-    url: "https://vercel.com/kadorado/reto15",
+    url: "https://reto15-cpco43a9q.vercel.app/",
   },
   {
     img: "./img/challenge16.png",
