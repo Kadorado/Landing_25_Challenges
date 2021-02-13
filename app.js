@@ -8,7 +8,7 @@ let Gallery = document.getElementsByClassName("gallery_item");
 const reto = document.getElementById("reto");
 
 const title = "25 challenges in 25 days";
-const msgNotFound = "¡¡¡ Challenge no found !!!";
+const msgNotFound = "¡¡¡ Challenge not found !!!";
 let idx = 1;
 
 // select search bar
