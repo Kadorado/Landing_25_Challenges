@@ -21,17 +21,17 @@ const challenges = [
   {
     img: "./img/challenge1.png",
     name: "Expanding Cards",
-    url: "https://reto1-eight.vercel.app/",
+    url: "https://reto1-qtq0ru6kt.vercel.app/",
   },
   {
     img: "./img/challenge2.png",
     name: "Progress Steps",
-    url: "https://reto2-ten.vercel.app/",
+    url: "https://reto2-4l085lsj1.vercel.app/",
   },
   {
     img: "./img/challenge3.png",
     name: "Rotating Navigation",
-    url: "https://reto3-ten.vercel.app/",
+    url: "https://reto3-tau.vercel.app/",
   },
   {
     img: "./img/challenge4.png",
